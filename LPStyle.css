@@ -1,0 +1,12 @@
+<style>
+        .hero-gradient {
+            background: linear-gradient(45deg, rgba(6,70,143,0.8) 0%, rgba(72,149,239,0.8) 100%);
+        }
+        .product-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+        }
+        .nav-link:hover {
+            border-bottom: 2px solid white;
+        }
+    </style>
